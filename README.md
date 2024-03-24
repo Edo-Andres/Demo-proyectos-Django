@@ -1,4 +1,4 @@
-# Demo_proyectos_varios
+# Demo_proyectos_Django
 Aquí una breve demostración de algunos proyectos que he realizado.
 
 ## Tabla de Contenidos
