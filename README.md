@@ -42,7 +42,7 @@ Este proyecto consiste en una aplicación web creada con Django, una base de dat
 3. **Realizar pago a traves de Mercado Pago:**
    - Permite a los usuarios permite a los usuarios comprar los productos con la cuenta de Mercado Pago (cuentas de prueba).
 4. **Actualización de stock**
-  - Después de cada compra efectiva, se descuenta en la base de datos la cantidad correspondiente de los productos comprados.
+   - Después de cada compra efectiva, se descuenta en la base de datos la cantidad correspondiente de los productos comprados.
 
 ### Demo de la Aplicación
 ![Demo de la Aplicación](https://github.com/Edo-Andres/archivos/blob/main/integracion_mercado_pago.gif)
@@ -64,7 +64,7 @@ Este proyecto consiste en una aplicación web creada con Django y una base de da
 3. **Cuanta administrador para gestionar stock y logística de los productos:**
    - Permite al administrador crear, modificar o eliminar el stock o las carácterísticas de los productos.
 4. **Actualización de stock**
-  - Después de cada reserva efectiva, se descuenta en la base de datos la cantidad correspondiente de los productos afectados.
+   - Después de cada reserva efectiva, se descuenta en la base de datos la cantidad correspondiente de los productos afectados.
 
 ### Demo de la Aplicación
 ![Demo de la Aplicación](https://github.com/Edo-Andres/archivos/blob/main/Demo_menu_duoc.gif)
