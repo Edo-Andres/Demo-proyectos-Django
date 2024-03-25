@@ -28,7 +28,7 @@ Este proyecto consiste en una aplicación web creada con Django y Bootstrap que 
 ## Proyecto 2: Web con Django e integración con Mercado Pago <a name="proyecto-2"></a>
 (Proyecto enfocado más al backend (integración con Mercado Pago)
 
-Este proyecto consiste en una aplicación web creada con Django, una base de datos SQL y una integración a la plataforma Mergado Pago a traves de su API.
+Este proyecto consiste en una aplicación web creada con Django, una base de datos SQL y una integración a la plataforma Mergado Pago a través de su API.
 
 ### Tecnologías utilizadas
 - Django
