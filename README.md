@@ -12,6 +12,7 @@ Este proyecto consiste en una aplicación web creada con Django y Bootstrap que 
 
 ### Tecnologías utilizadas
 - Django
+- JavaScript
 - Bootstrap
 - Rick and Morty API -> Api utilizada: https://rickandmortyapi.com/documentation
 
