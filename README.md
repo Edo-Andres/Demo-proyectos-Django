@@ -41,7 +41,7 @@ Este proyecto consiste en una aplicación web creada con Django, una base de dat
 2. **Buscar productos:**
    - Permite a los usuarios buscar y seleccionar productos que desea comprar.
 3. **Realizar pago a través de Mercado Pago:**
-   - Permite a los usuarios permite a los usuarios comprar los productos con la cuenta de Mercado Pago (cuentas de prueba).
+   - Permite a los usuarios comprar los productos con la cuenta de Mercado Pago (cuentas de prueba).
 4. **Actualización de stock**
    - Después de cada compra efectiva, se descuenta en la base de datos la cantidad correspondiente de los productos comprados.
 
